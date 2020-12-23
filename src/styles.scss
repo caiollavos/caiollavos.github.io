@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;400;600&display=swap');
+
+html, body { height: 100%; }
+body { margin: 0; font-family: 'Inconsolata', monospace !important; }
+
+
+//Colors
+
+$c-yellow-primary: #f0da50;
+$c-red-primary: #e43137;
